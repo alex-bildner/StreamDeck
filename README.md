@@ -6,8 +6,6 @@ O mesmo deck existe no Android e no iPhone. No Mac, um app acompanha a conexão,
 
 ## Ambientes
 
-As capturas ficam em [`docs/`](docs/). Salve os arquivos com estes nomes para aparecerem aqui.
-
 ### Android
 
 | Atalhos | Links | Relógio |
